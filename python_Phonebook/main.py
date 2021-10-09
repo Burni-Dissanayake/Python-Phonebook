@@ -14,6 +14,8 @@ def show_main_menu():
           "Enter 4 To Exit\n**********************")
 
     '''Operation input'''
+    
+    
 
 
 ''' Search contacts'''
